@@ -1,9 +1,16 @@
 import React from 'react';
 //import { Button , Navbar} from 'react-bootstrap';
+import pashm from './images/Pashmina_Photo-2.jpg'
+import './Style/Navbar.css'
+
 
 const Homepage = () => {
   return (
-    <div >
+   
+   <div >
+      <div>
+        <img src={pashm} alt= 'Pashmina'   />
+  </div>
      
       <h1>Welcome to our online Pashmina store!</h1>
       <p>
