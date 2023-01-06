@@ -1,0 +1,44 @@
+.navbar-nav .nav-link:hover {
+    background-color: #f8f9fa;
+  }
+  
+  .navbar-nav .active {
+    background-color: #e9ecef;
+  }
+  .navbar-nav {
+    /* Add a gradient background color */
+   /* background: linear-gradient(to right, #f4ebed, #dbcdcb);
+  
+    /* Use a large, bold font for the links */
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+    font-weight: 700;
+    font-style: bold;
+    color: black;
+  
+    /* Add some padding and margin to the links */
+    padding: 0 20px;
+    margin: 0;
+  
+    /* Remove the default list style */
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    /* Add some hover effects to the links */
+    
+  }
+
+  .nav-link {
+    text-decoration: none;
+    color: #4d9494;    ;
+    font-family: "Times New Roman", serif;
+  }
+  
+  .navbar-brand {
+    text-decoration: none;
+    color: #4d9496;    ;
+    font-family: "Times New Roman", serif;
+  }
+  
