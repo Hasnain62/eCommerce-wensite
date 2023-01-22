@@ -37,3 +37,28 @@
 .text-center .card-text {
     color: #6c757d;
 }
+
+.view-locations-btn{
+    position: relative;
+    left: -200px;
+    top: 20px;
+    max-width: fit-content;
+}
+
+.view-locations-btn {
+    background-color: #2E86C1;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 50px;
+    font-size: 15px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.view-locations-btn:hover {
+    background-color: #1E4F72;
+    cursor: pointer;
+}
+
+
+  

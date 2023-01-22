@@ -1,11 +1,14 @@
 import React from 'react';
 import './Style/Navbar.css';
+import { Link } from 'react-router-dom';
+
+
 const AdvancedNavbar = () => {
   return (
     
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
     
-      <div className="container-fluid">
+     <div className="container-fluid">
         <div className="navbar-header">
           <a className="navbar-brand" href="#">Cashmere Store </a>
         </div>
